@@ -5,3 +5,5 @@
 @ About Femaleness
 > - ? Python, C# Major
 > - ? Advancing In NodeJS, C++, Go & Ruby
+
+https://discord.gg/femaleness
