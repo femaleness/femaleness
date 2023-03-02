@@ -6,5 +6,6 @@
 > - ? Python, C# Major
 > - ? Advancing In NodeJS, C++, Go & Ruby
 
-https://discord.gg/femaleness
-https://discord.gg/builds
+@ Socials
+> - $ https://discord.gg/femaleness
+> - $ https://discord.gg/builds
